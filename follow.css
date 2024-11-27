@@ -1,9 +1,9 @@
 .placeholder1 {
 
-    background: radial-gradient(64.44% 38.7% at 55.52% 16.25%, #FFFFFF 29.93%, rgba(255, 255, 255, 0) 100%),
-                linear-gradient(273.45deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 43.35%),
-                linear-gradient(65.62deg, #FFFFFF -14.48%, rgba(255, 255, 255, 0) 31.57%);
-    box-shadow: 0px 4px 4px 0px #00000040;
+    width: 225.19px;
+    height: 139.37px;
+    gap: 0px;
+    opacity: 0px;
 
 
 
@@ -11,10 +11,12 @@
 
 .placeholder2 {
 
-    width: Hug (805px)px;
-    height: Hug (662.88px)px;
-    gap: 80px;
-    opacity: 0px;
+    border: 3px solid #468AC9
+
+
+
+
+
 
     
 }
